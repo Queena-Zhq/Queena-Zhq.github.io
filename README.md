@@ -1,5 +1,5 @@
 # queena-zhq.github.io
-The Blog uses Hexo framework, I recommed it to you
+The Blog uses Hexo framework, I recommend it to you
 
 Home Page https://hexo.io/
 
