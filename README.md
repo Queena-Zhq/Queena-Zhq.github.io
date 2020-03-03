@@ -1,4 +1,4 @@
-# Queena-Zhq.github.io
+# queena-qhq.github.io
 The Blog uses Hexo framework, I recommed it to you
 
 Home Page https://hexo.io/
